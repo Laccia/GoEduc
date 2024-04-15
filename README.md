@@ -1,0 +1,2 @@
+# GoEduc
+Мое обучение Golang
